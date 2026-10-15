@@ -1,12 +1,12 @@
 
-import { useState } from "react";
+// import { useState } from "react";
 import AddToCart from "./AddToCart";
 
 export default function App() {
 
 
 
-  const [count, setCount] = useState(0);
+  // const [count, setCount] = useState(0);
   
 
   
